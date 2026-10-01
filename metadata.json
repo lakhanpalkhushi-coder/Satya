@@ -1,0 +1,6 @@
+{
+  "name": "SATYA — Digital Forensic Investigation",
+  "description": "AI-powered digital forensic investigation environment for crime scene reconstruction, spatial evidence inspection, and multi-source timeline correlation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
